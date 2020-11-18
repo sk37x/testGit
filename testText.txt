@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 TEST Merge;
 
 
 TEST Text; 
 >>>> merge
-=======
-TEST Text;
->>>>>>> master
