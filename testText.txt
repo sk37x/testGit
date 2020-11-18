@@ -1,4 +1,21 @@
+<<<<<<< HEAD
 TEST Git
 
 
 TEST Add Branch
+TEST Merge;
+
+
+TEST Text; 
+>>>> merge
+
+MERGE original to this branch ######
+
+
+=======
+TEST Merge;
+
+
+TEST Text; 
+>>>> merge
+>>>>>>> main
